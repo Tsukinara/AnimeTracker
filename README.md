@@ -1,5 +1,5 @@
 AnimeTracker
-============
+=============
 
 A spreadsheet made to track a large quantity of anime.
 Organized through several linked sheets, all reference in one main sheet which brings everything together.
